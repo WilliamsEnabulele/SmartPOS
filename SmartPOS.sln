@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartPOS.API", "SmartPOS.API\SmartPOS.API.csproj", "{FDF7F71E-2CEF-4089-8B58-AAE2C375E8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartPOS.Core", "SmartPOS.Core\SmartPOS.Core.csproj", "{97BEC12B-EEAB-49BE-9C6D-82B34BDB0D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartPOS.Application", "SmartPOS.Application\SmartPOS.Application.csproj", "{C737A88B-1559-4280-B6D4-53B08AD45BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartPOS.Infrastructure", "SmartPOS.Infrastructure\SmartPOS.Infrastructure.csproj", "{68D6AA92-3B92-4A48-AC60-9A8437CD41CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF7F71E-2CEF-4089-8B58-AAE2C375E8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF7F71E-2CEF-4089-8B58-AAE2C375E8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF7F71E-2CEF-4089-8B58-AAE2C375E8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF7F71E-2CEF-4089-8B58-AAE2C375E8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BEC12B-EEAB-49BE-9C6D-82B34BDB0D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BEC12B-EEAB-49BE-9C6D-82B34BDB0D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BEC12B-EEAB-49BE-9C6D-82B34BDB0D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BEC12B-EEAB-49BE-9C6D-82B34BDB0D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C737A88B-1559-4280-B6D4-53B08AD45BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C737A88B-1559-4280-B6D4-53B08AD45BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C737A88B-1559-4280-B6D4-53B08AD45BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C737A88B-1559-4280-B6D4-53B08AD45BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D6AA92-3B92-4A48-AC60-9A8437CD41CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D6AA92-3B92-4A48-AC60-9A8437CD41CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D6AA92-3B92-4A48-AC60-9A8437CD41CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D6AA92-3B92-4A48-AC60-9A8437CD41CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F42357-347A-4FF1-BF22-DCD734B70F28}
+	EndGlobalSection
+EndGlobal
